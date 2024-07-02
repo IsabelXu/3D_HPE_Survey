@@ -66,6 +66,9 @@
 
 [3D Humans Workshop @ CVPR 2024 - Invited Posters (google.com)](https://sites.google.com/view/3d-humans-cvpr2024/invited-posters)
 
+(CVPR 2024):5th Workshop on Robot Visual Perception in Human Crowded Environments.
+[CVPR2024: 5th Workshop on Robot Visual Perception in Human Crowded Environments.](https://jrdb.erc.monash.edu/workshops/cvpr2024)
+
 (ECCV 2024):T-CAP 2024 TOWARDS A COMPLETE ANALYSIS OF PEOPLE: FINE-GRAINED UNDERSTANDINGFOR REAL-WORLD APPLICATIONS
 
 [T-CAP 2024 (google.com)](https://sites.google.com/view/t-cap-2024/home)
