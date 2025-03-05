@@ -83,8 +83,7 @@
 [ACM Multimedia 2024 Workshops (acmmm.org)](https://2024.acmmm.org/workshop-papers)
 
 (CVPR 2025):Global 3D Human Poses (G3P) Workshop
+
 [Global 3D Human Poses (G3P) Workshop](https://g3p-workshop.github.io/)
 
-(CVPR 2025):Global 3D Human Poses (G3P) Workshop
-[Global 3D Human Poses (G3P) Workshop](https://g3p-workshop.github.io/)
 
